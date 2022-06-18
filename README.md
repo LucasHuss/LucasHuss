@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucas Huss
+- 👀 I’m interested in Quantum Computing/ Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me lhuss5555@gmail.com
